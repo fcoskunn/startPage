@@ -26,7 +26,7 @@ const MASTER_MAP = [
         "items":[
             {"name": "Youtube", "shortcutKey": "a", "url": "https://youtube.com/"},
             {"name": "Netflix", "shortcutKey": "s", "url": "https://netflix.com/"},
-            {"name": "Reddit", "shortcutKey": "d", "url": "https://reddit.com/"}
+            {"name": "Accuradio", "shortcutKey": "d", "url": "https://www.accuradio.com/"}
         ]
     },
     {
